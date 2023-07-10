@@ -1,0 +1,3 @@
+Simply, it is just estimation of Parameters(thetas) using squared loss error method:
+Theta = (X.T, X)^(-1) . (X.T) . y ;  where X : input data set
+                                           y : output vector
